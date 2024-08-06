@@ -47,3 +47,13 @@ These challenges highlight the need for an automated, secure, and efficient atte
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/smart-attendance-system.git
+
+cd smart-attendance-system
+pip install -r requirements.txt
+python main.py
+
+Replace the following placeholders with your actual data:
+- `https://github.com/yourusername/smart-attendance-system.git` with the actual URL of your GitHub repository.
+- `path_to_your_result_image.png` with the path to your result image.
+
+This README provides a comprehensive overview of your project, detailing its features, installation instructions, usage, contribution guidelines, license, and a visual result.
