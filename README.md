@@ -13,16 +13,6 @@ The "Smart Attendance System Using Face Recognition" is designed to streamline t
 - More advanced recognition algorithms.
 - Support for multiple cameras.
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Problem Statement](#problem-statement)
-3. [Objectives](#objectives)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Result](#result)
-
 ## Introduction
 In the digital age, automating routine processes has become a necessity for efficiency and accuracy. The "Smart Attendance System Using Face Recognition" is a pioneering project aimed at revolutionizing the traditional attendance tracking methods in educational institutions and workplaces. This system leverages facial recognition technology, a subset of computer vision, to identify individuals and record their attendance automatically. Unlike conventional methods that rely on manual input or physical tokens, this system offers a seamless and secure alternative, minimizing the chances of human error and fraudulent activities.
 
@@ -47,7 +37,6 @@ These challenges highlight the need for an automated, secure, and efficient atte
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/smart-attendance-system.git
-
 
 
 Replace `path_to_your_screenshot1.png`, `path_to_your_screenshot2.png`, and `path_to_your_screenshot3.png` with the actual paths to your screenshots. This README provides a comprehensive overview of your project, detailing its features, installation instructions, usage, contribution guidelines, license, and visual results.
